@@ -27,5 +27,5 @@ The **Player Management App** is a React-based application designed for managing
 - **Modules** for organized and reusable code.
 
 ### Live Demo
-Check out the live version of the app [https://gleeful-rugelach-0533f8.netlify.app/]  
+Check out the live version of the app: https://Ssiyam0123.github.io/Cricket-Dream-11/
 
