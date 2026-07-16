@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Cricket-Dream-11/",
+  base: process.env.VERCEL ? '/' : "/Cricket-Dream-11/",
 })

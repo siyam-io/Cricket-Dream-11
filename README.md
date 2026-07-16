@@ -1,7 +1,7 @@
-# Player Management App
+﻿# Player Management App
 
 ### Project Description
-The **Player Management App** is a React-based application designed for managing players within a limited budget. Users can view available players, add them to their selection, and track costs dynamically, with real-time notifications indicating budget constraints and selection limits. It’s an intuitive way to simulate a player auction or team selection process.
+The **Player Management App** is a React-based application designed for managing players within a limited budget. Users can view available players, add them to their selection, and track costs dynamically, with real-time notifications indicating budget constraints and selection limits. Itâ€™s an intuitive way to simulate a player auction or team selection process.
 
 ### Technologies Used
 - **React** - For building dynamic and interactive UI components.
@@ -27,5 +27,8 @@ The **Player Management App** is a React-based application designed for managing
 - **Modules** for organized and reusable code.
 
 ### Live Demo
-Check out the live version of the app: https://siyam-io.github.io/Cricket-Dream-11/
+Check out the live version of the app: https://siyam-cricket-dream-11.vercel.app////
+
+
+
 
